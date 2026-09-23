@@ -24,7 +24,7 @@ Then place Workspace Icons in your bar layout. It replaces the built in workspac
 ## Remove
 
 ```bash
-omarchy plugin remove nira.workspace-icons --yes
+omarchy plugin remove workspace.icons --yes
 ```
 
 Disabling or removing it restores the built in widget.

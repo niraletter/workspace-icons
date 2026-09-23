@@ -6,13 +6,11 @@ Bar widget for Omarchy that shows workspace numbers with app icons.
 
 ## What it shows
 
-* Workspace numbers 1 to 5, plus 6 to 10 when used
 * One icon per open window, in tile order
 * Active window icon is bright, others are dimmed
 * Small accent tick under the focused window
 * Dot badge for floating windows
 * Scratchpad slot that only shows when used
-* Tooltips with app names
 
 ## Install
 

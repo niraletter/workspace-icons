@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "nira.workspace-icons",
+  "name": "Workspace Icons",
+  "version": "1.0.0",
+  "author": "niraletter",
+  "description": "Workspace numbers with app icons for the Omarchy bar.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Workspace Icons",
+    "description": "Workspace numbers with app icons for the Omarchy bar.",
+    "category": "Compositor",
+    "allowMultiple": false
+  }
+}

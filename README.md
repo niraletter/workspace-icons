@@ -19,9 +19,10 @@ Bar widget for Omarchy that shows workspace numbers with app icons.
 omarchy plugin add https://github.com/niraletter/workspace-icons --enable
 ```
 
-- Then disable system workspace (omarchy.workspace) plugin.
+**Then disable system workspace (omarchy.workspace) plugin**
   
-<img width="778" height="720" alt="sssssssssssss-1080p" src="https://github.com/user-attachments/assets/73f7c690-b1e8-42a7-a9a9-f15333f41cd8" />
+<img width="777" height="363" alt="gif" src="https://github.com/user-attachments/assets/a0c686d6-7769-459c-914d-d823f83bd61e" />
+
 
 ## Remove
 

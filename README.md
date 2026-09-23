@@ -1,8 +1,8 @@
 # Workspace Icons
 
 Bar widget for Omarchy that shows workspace numbers with app icons.
+<img width="730" height="48" alt="preview" src="https://github.com/user-attachments/assets/3c6a4f62-560f-41cf-ad67-3f28c66d7311" />
 
-Cloned from the built in workspaces widget and extended to show what is open.
 
 ## What it shows
 
@@ -43,4 +43,4 @@ omarchy plugin validate ~/Projects/workspace-icons
 
 ## License
 
-MIT. See LICENSE.
+This project is licensed under the [MIT License](LICENSE).

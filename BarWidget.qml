@@ -7,7 +7,7 @@ import qs.Ui
 
 BarWidget {
   id: root
-  moduleName: "nira.workspace-icons"
+  moduleName: "workspace.icons"
 
   function workspaceById(id) {
     var values = Hyprland.workspaces.values
